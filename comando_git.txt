@@ -1,0 +1,20 @@
+
+// aca lo clono
+git clone https://github.com/abbulR/C__sharp.git
+
+// aca agrego todo
+git add * 
+
+// aca hago el commit y le pongo su comentario
+git commit -m 'aqui_comentario'
+
+// aca los subo al repositorio
+git push origin master
+
+
+
+
+____________________________________________________________________
+
+http://rogerdudler.github.io/git-guide/index.es.html
+
