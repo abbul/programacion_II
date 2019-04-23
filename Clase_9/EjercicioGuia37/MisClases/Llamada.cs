@@ -23,14 +23,20 @@ namespace MisClases
       this.nroDestino = nroDestino;
     }
 
-    public string Mostrar()
+    public virtual string Mostrar()
     {
-      return "ORIGEN:" + NroOrigen;
+      StringBuilder cadena = new StringBuilder();
+
+      cadena.Append("Duracion: " + this.duracion);
+      cadena.Append("Origen: " + this.nroOrigen);
+      cadena.AppendLine("Destino: " + this.NroDestino);
+
+      return cadena.ToString();
     }
 
     public int OrdenarPorDuracion(Llamada llamada1, Llamada llamada2)
     {
-      return 1;
+      return (llamada1.duracion > llamada2.duracion) ? 1 : 0;
     }
 
     public enum TipoLlamada

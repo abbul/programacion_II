@@ -10,26 +10,41 @@ namespace MisClases
   {
     protected float costo;
 
-    public float CostoLlamada { get; }
+    public float CostoLlamada {
+      get{
 
-    public Local(Llamada llamada, float costoLlamada): base()
-    {
-      CostoLlamada = costoLlamada;
+        return CalcularCosto();
+      }
+        
     }
 
-    public Local(string origen, float duracion, string destino, float costoLlamada)
+    public Local(Llamada llamada, float costo)
     {
-      CostoLlamada = costoLlamada;
+      this.costo = costo;
+    }
+
+    public Local(string origen, float duracion, string destino, float costoLlamada): base(duracion,origen,destino)
+    {
+      this.costo = costoLlamada;
     }
 
     private float CalcularCosto()
     {
-      return 13.5f;
+      int minutos = Convert.ToInt32(Duracion);
+      float segundos = minutos - Duracion;
+    
+      return (minutos * this.costo) + (segundos * (this.costo/60));
     }
 
-    public string Mostrar()
+    public override string Mostrar()
     {
-      return "hola";
+      StringBuilder cadena = new StringBuilder();
+
+      cadena.Append(base.Mostrar());
+      cadena.AppendLine("Costo:" + this.costo);
+
+      return cadena.ToString();
+
     }
   }
 }

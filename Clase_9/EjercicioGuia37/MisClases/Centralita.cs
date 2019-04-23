@@ -34,7 +34,7 @@ namespace MisClases
 
     }
 
-    private float CalcularGanancia(TipoLlamada tipo)
+    private float CalcularGanancia(Llamada.TipoLlamada tipo)
     {
       return 12.4f;
     }
