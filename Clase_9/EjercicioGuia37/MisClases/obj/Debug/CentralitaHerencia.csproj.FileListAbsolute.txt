@@ -1,2 +1,0 @@
-C:\Users\alumno\Desktop\programacion_II\Clase_9\EjercicioGuia37\MisClases\obj\Debug\CentralitaHerencia.csprojAssemblyReference.cache
-C:\Users\alumno\Desktop\programacion_II\Clase_9\EjercicioGuia37\MisClases\obj\Debug\CentralitaHerencia.csproj.CoreCompileInputs.cache
