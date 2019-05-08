@@ -20,7 +20,7 @@ namespace Entidades
         {
             StringBuilder cadena = new StringBuilder();
 
-            cadena.AppendLine("PLACA DE VIDEO" + Marca + " " + Modelo + "<Puerto:" + Conector + ">");
+            cadena.AppendLine("PLACA DE VIDEO " + Marca + " " + Modelo + " <Puerto:" + Conector + ">");
             cadena.AppendLine("Memoria " + ramMB + "MB");
 
             return Convert.ToString(cadena);

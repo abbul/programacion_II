@@ -99,16 +99,19 @@ namespace Entidades
         {
             if( m == p )
             {
-                m.perifericos.Remove(p);
-                return "Periferico Desconectado";
+                foreach (Periferico item in m.perifericos.ToList())
+                {
+                    if(item == p)
+                    {   
+                        m.perifericos.Remove(item);
+                        m.cantidadMaxPerifericos--;
+                        return "Periferico Desconectado";
+                    }
+                }             
             }
             
             return "No se puede Desconectar el dispositivo";
         }
-
-
-
-
 
     }
 }

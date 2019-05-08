@@ -12,9 +12,9 @@ namespace Entidades
         private string marca;
         private string modelo;
 
-        public string Marca { get; }
-        public string Modelo { get; }
-        public EConector Conector { get; }
+        public string Marca { get { return marca; } }
+        public string Modelo { get { return modelo; } }
+        public EConector Conector { get { return conector; } }
 
         protected Periferico(EConector conector, string marca, string modelo)
         {
@@ -22,8 +22,6 @@ namespace Entidades
             this.marca = marca;
             this.modelo = modelo;
         }
-
-
 
         public static explicit operator string(Periferico p)
         {

@@ -4,16 +4,16 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A3135C60-56FB-4A8D-BFF0-37242C03DAA5}</ProjectGuid>
-    <OutputType>Exe</OutputType>
-    <RootNamespace>Clase_1</RootNamespace>
-    <AssemblyName>Clase_1</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <ProjectGuid>{D675A9F2-4184-4ADB-A83C-1ED3025E2850}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Entidades</RootNamespace>
+    <AssemblyName>Entidades</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -23,7 +23,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -42,11 +41,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Ej_01.cs" />
+    <Compile Include="Ej_12_ValidarRespuesta.cs" />
+    <Compile Include="Ej_02.cs" />
+    <Compile Include="Ej_03.cs" />
+    <Compile Include="Ej_07.cs" />
+    <Compile Include="Ej_08.cs" />
+    <Compile Include="Ej_09.cs" />
+    <Compile Include="Ej_13_Conversor.cs" />
+    <Compile Include="Ej_14_CalculoDeArea.cs" />
+    <Compile Include="Ej_15_Calculadora.cs" />
+    <Compile Include="Ej_16_Alumno.cs" />
+    <Compile Include="Ej_17_Boligrafo.cs" />
+    <Compile Include="Ej_18_Punto.cs" />
+    <Compile Include="Ej_18_Rectangulo.cs" />
+    <Compile Include="Ej_19_Sumador.cs" />
+    <Compile Include="Ej_20_Dolar.cs" />
+    <Compile Include="Ej_20_Euro.cs" />
+    <Compile Include="Ej_20_Pesos.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.config" />
+    <Compile Include="Ej_11_Validacion.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

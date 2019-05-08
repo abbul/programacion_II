@@ -26,7 +26,7 @@ namespace Entidades
         {
             StringBuilder cadena = new StringBuilder();
 
-            cadena.AppendLine("TECLADO" + Marca + " " + Modelo + "<Puerto:" + Conector + ">" );
+            cadena.AppendLine("TECLADO " + Marca + " " + Modelo + " <Puerto:" + Conector + ">" );
             cadena.AppendLine("Distribucion " + distribucion);
 
             return Convert.ToString(cadena);

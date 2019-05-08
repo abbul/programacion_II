@@ -10,3 +10,9 @@ C:\Users\alumno\Desktop\Rodriguez.Abbul.2019\20190509-Rodriguez.Abbul\Entidades\
 C:\Users\alumno\Desktop\Rodriguez.Abbul.2019\20190509-Rodriguez.Abbul\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\alumno\Desktop\Rodriguez.Abbul.2019\20190509-Rodriguez.Abbul\Entidades\obj\Debug\Entidades.dll
 C:\Users\alumno\Desktop\Rodriguez.Abbul.2019\20190509-Rodriguez.Abbul\Entidades\obj\Debug\Entidades.pdb
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Rodriguez.Abbul.2019\20190509-Rodriguez.Abbul\Entidades\bin\Debug\Entidades.dll
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Rodriguez.Abbul.2019\20190509-Rodriguez.Abbul\Entidades\bin\Debug\Entidades.pdb
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Rodriguez.Abbul.2019\20190509-Rodriguez.Abbul\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Rodriguez.Abbul.2019\20190509-Rodriguez.Abbul\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Rodriguez.Abbul.2019\20190509-Rodriguez.Abbul\Entidades\obj\Debug\Entidades.dll
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Rodriguez.Abbul.2019\20190509-Rodriguez.Abbul\Entidades\obj\Debug\Entidades.pdb

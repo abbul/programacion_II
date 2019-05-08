@@ -18,3 +18,13 @@ C:\Users\alumno\Desktop\Rodriguez.Abbul.2019\20190509-Rodriguez.Abbul\Test\obj\D
 C:\Users\alumno\Desktop\Rodriguez.Abbul.2019\20190509-Rodriguez.Abbul\Test\obj\Debug\Test.csproj.CopyComplete
 C:\Users\alumno\Desktop\Rodriguez.Abbul.2019\20190509-Rodriguez.Abbul\Test\obj\Debug\Test.exe
 C:\Users\alumno\Desktop\Rodriguez.Abbul.2019\20190509-Rodriguez.Abbul\Test\obj\Debug\Test.pdb
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Rodriguez.Abbul.2019\20190509-Rodriguez.Abbul\Test\bin\Debug\Test.exe.config
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Rodriguez.Abbul.2019\20190509-Rodriguez.Abbul\Test\bin\Debug\Test.exe
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Rodriguez.Abbul.2019\20190509-Rodriguez.Abbul\Test\bin\Debug\Test.pdb
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Rodriguez.Abbul.2019\20190509-Rodriguez.Abbul\Test\bin\Debug\Entidades.dll
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Rodriguez.Abbul.2019\20190509-Rodriguez.Abbul\Test\bin\Debug\Entidades.pdb
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Rodriguez.Abbul.2019\20190509-Rodriguez.Abbul\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Rodriguez.Abbul.2019\20190509-Rodriguez.Abbul\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Rodriguez.Abbul.2019\20190509-Rodriguez.Abbul\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Rodriguez.Abbul.2019\20190509-Rodriguez.Abbul\Test\obj\Debug\Test.exe
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Rodriguez.Abbul.2019\20190509-Rodriguez.Abbul\Test\obj\Debug\Test.pdb
