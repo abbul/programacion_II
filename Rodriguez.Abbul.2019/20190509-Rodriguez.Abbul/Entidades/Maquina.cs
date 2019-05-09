@@ -42,7 +42,9 @@ namespace Entidades
             }
         }
 
-        private Maquina()
+    public int MyProperty { get; set; }
+
+    private Maquina()
         {
             perifericos = new List<Periferico>();
             cantidadMaxPerifericos = 3;
