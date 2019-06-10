@@ -1,0 +1,13 @@
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Ej_61\Vista\bin\Debug\Vista.exe.config
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Ej_61\Vista\bin\Debug\Vista.exe
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Ej_61\Vista\bin\Debug\Vista.pdb
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Ej_61\Vista\bin\Debug\Entidades.dll
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Ej_61\Vista\bin\Debug\Entidades.pdb
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Ej_61\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Ej_61\Vista\obj\Debug\Vista.Form1.resources
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Ej_61\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Ej_61\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Ej_61\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Ej_61\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Ej_61\Vista\obj\Debug\Vista.exe
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Ej_61\Vista\obj\Debug\Vista.pdb
