@@ -1,0 +1,13 @@
+C:\Users\alumno\Desktop\Ejercicio_10_06_2019\FormIndex\bin\Debug\FormIndex.exe.config
+C:\Users\alumno\Desktop\Ejercicio_10_06_2019\FormIndex\bin\Debug\FormIndex.exe
+C:\Users\alumno\Desktop\Ejercicio_10_06_2019\FormIndex\bin\Debug\FormIndex.pdb
+C:\Users\alumno\Desktop\Ejercicio_10_06_2019\FormIndex\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Ejercicio_10_06_2019\FormIndex\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Ejercicio_10_06_2019\FormIndex\obj\Debug\FormIndex.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Ejercicio_10_06_2019\FormIndex\obj\Debug\FormIndex.Form1.resources
+C:\Users\alumno\Desktop\Ejercicio_10_06_2019\FormIndex\obj\Debug\FormIndex.Properties.Resources.resources
+C:\Users\alumno\Desktop\Ejercicio_10_06_2019\FormIndex\obj\Debug\FormIndex.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\Ejercicio_10_06_2019\FormIndex\obj\Debug\FormIndex.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Ejercicio_10_06_2019\FormIndex\obj\Debug\FormIndex.csproj.CopyComplete
+C:\Users\alumno\Desktop\Ejercicio_10_06_2019\FormIndex\obj\Debug\FormIndex.exe
+C:\Users\alumno\Desktop\Ejercicio_10_06_2019\FormIndex\obj\Debug\FormIndex.pdb
