@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\SP\Entities\bin\Debug\Entities.dll
+C:\Users\LENOVO\source\repos\SP\Entities\bin\Debug\Entities.pdb
+C:\Users\LENOVO\source\repos\SP\Entities\obj\Debug\SP.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\SP\Entities\obj\Debug\Entities.dll
+C:\Users\LENOVO\source\repos\SP\Entities\obj\Debug\Entities.pdb
+C:\Users\LENOVO\source\repos\SP\Entities\obj\Debug\SP.Entidades.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\20190625.Rodriguez.Astroberto\Entities\obj\Debug\SP.Entidades.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\20190625.Rodriguez.Astroberto\Entities\obj\Debug\SP.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\20190625.Rodriguez.Astroberto\Entities\obj\Debug\Entities.dll
+C:\Users\alumno\Desktop\20190625.Rodriguez.Astroberto\Entities\obj\Debug\Entities.pdb
