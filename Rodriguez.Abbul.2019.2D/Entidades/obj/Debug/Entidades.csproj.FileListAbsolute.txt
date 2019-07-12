@@ -1,0 +1,18 @@
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20190711-Final\Entidades\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20190711-Final\Entidades\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20190711-Final\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20190711-Final\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20190711-Final\Entidades\obj\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20190711-Final\Entidades\obj\Debug\Entidades.pdb
+D:\Rodriguez.Abbul.2019.2D\Alumno\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Rodriguez.Abbul.2019.2D\Alumno\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Rodriguez.Abbul.2019.2D\Alumno\Entidades\obj\Debug\Entidades.dll
+D:\Rodriguez.Abbul.2019.2D\Alumno\Entidades\obj\Debug\Entidades.pdb
+D:\Rodriguez.Abbul.2019.2D\Alumno\Entidades\bin\Debug\Entidades.dll
+D:\Rodriguez.Abbul.2019.2D\Alumno\Entidades\bin\Debug\Entidades.pdb
+D:\Rodriguez.Abbul.2019.2D\Rodriguez.Abbul.2019.2D\Entidades\bin\Debug\Entidades.dll
+D:\Rodriguez.Abbul.2019.2D\Rodriguez.Abbul.2019.2D\Entidades\bin\Debug\Entidades.pdb
+D:\Rodriguez.Abbul.2019.2D\Rodriguez.Abbul.2019.2D\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Rodriguez.Abbul.2019.2D\Rodriguez.Abbul.2019.2D\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Rodriguez.Abbul.2019.2D\Rodriguez.Abbul.2019.2D\Entidades\obj\Debug\Entidades.dll
+D:\Rodriguez.Abbul.2019.2D\Rodriguez.Abbul.2019.2D\Entidades\obj\Debug\Entidades.pdb
