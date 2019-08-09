@@ -32,14 +32,16 @@ namespace Controles
 
         public void Estrellar()
         {
-
+            avion.Estrellar();
         }
 
         public int MoverAvion(int horasTotales, int horasRestantes)
         {
             if (this.picAvion.InvokeRequired)
             {
-                return 0;
+                int porcentajeCompletado = 100 - (horasRestantes * 100) / horasTotales;
+
+                return ( 100 - porcentajeCompletado);
             }
             else
             {

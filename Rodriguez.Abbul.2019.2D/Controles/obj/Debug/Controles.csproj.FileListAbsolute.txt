@@ -34,3 +34,15 @@ D:\Rodriguez.Abbul.2019.2D\Rodriguez.Abbul.2019.2D\Controles\obj\Debug\Controles
 D:\Rodriguez.Abbul.2019.2D\Rodriguez.Abbul.2019.2D\Controles\obj\Debug\Controles.csproj.CopyComplete
 D:\Rodriguez.Abbul.2019.2D\Rodriguez.Abbul.2019.2D\Controles\obj\Debug\Controles.dll
 D:\Rodriguez.Abbul.2019.2D\Rodriguez.Abbul.2019.2D\Controles\obj\Debug\Controles.pdb
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Rodriguez.Abbul.2019.2D\Controles\bin\Debug\Controles.dll
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Rodriguez.Abbul.2019.2D\Controles\bin\Debug\Controles.pdb
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Rodriguez.Abbul.2019.2D\Controles\bin\Debug\Entidades.dll
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Rodriguez.Abbul.2019.2D\Controles\bin\Debug\Entidades.pdb
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Rodriguez.Abbul.2019.2D\Controles\obj\Debug\Controles.csprojAssemblyReference.cache
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Rodriguez.Abbul.2019.2D\Controles\obj\Debug\Controles.Properties.Resources.resources
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Rodriguez.Abbul.2019.2D\Controles\obj\Debug\Controles.Vuelo.resources
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Rodriguez.Abbul.2019.2D\Controles\obj\Debug\Controles.csproj.GenerateResource.cache
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Rodriguez.Abbul.2019.2D\Controles\obj\Debug\Controles.csproj.CoreCompileInputs.cache
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Rodriguez.Abbul.2019.2D\Controles\obj\Debug\Controles.csproj.CopyComplete
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Rodriguez.Abbul.2019.2D\Controles\obj\Debug\Controles.dll
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Rodriguez.Abbul.2019.2D\Controles\obj\Debug\Controles.pdb

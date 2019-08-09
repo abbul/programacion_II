@@ -1,0 +1,7 @@
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Clase_3\Clase_3\bin\Debug\Clase_3.exe.config
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Clase_3\Clase_3\bin\Debug\Clase_3.exe
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Clase_3\Clase_3\bin\Debug\Clase_3.pdb
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Clase_3\Clase_3\obj\Debug\Clase_3.csprojAssemblyReference.cache
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Clase_3\Clase_3\obj\Debug\Clase_3.csproj.CoreCompileInputs.cache
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Clase_3\Clase_3\obj\Debug\Clase_3.exe
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Clase_3\Clase_3\obj\Debug\Clase_3.pdb

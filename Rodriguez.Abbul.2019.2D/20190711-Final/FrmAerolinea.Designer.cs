@@ -34,10 +34,10 @@
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.archivoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.guardarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.abrirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.baseDeDatosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.binarioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.xMLToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.abrirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.baseDeDatosToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.binarioToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.xMLToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
@@ -47,9 +47,10 @@
             // 
             // btnAgregar
             // 
-            this.btnAgregar.Location = new System.Drawing.Point(223, 27);
+            this.btnAgregar.Location = new System.Drawing.Point(297, 33);
+            this.btnAgregar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnAgregar.Name = "btnAgregar";
-            this.btnAgregar.Size = new System.Drawing.Size(75, 23);
+            this.btnAgregar.Size = new System.Drawing.Size(100, 28);
             this.btnAgregar.TabIndex = 0;
             this.btnAgregar.Text = "Agregar";
             this.btnAgregar.UseVisualStyleBackColor = true;
@@ -58,15 +59,17 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(12, 32);
+            this.label1.Location = new System.Drawing.Point(16, 39);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(79, 13);
+            this.label1.Size = new System.Drawing.Size(104, 17);
             this.label1.TabIndex = 1;
             this.label1.Text = "Horas de vuelo";
             // 
             // nudHorasDeVuelo
             // 
-            this.nudHorasDeVuelo.Location = new System.Drawing.Point(97, 30);
+            this.nudHorasDeVuelo.Location = new System.Drawing.Point(129, 37);
+            this.nudHorasDeVuelo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.nudHorasDeVuelo.Maximum = new decimal(new int[] {
             10,
             0,
@@ -78,7 +81,7 @@
             0,
             0});
             this.nudHorasDeVuelo.Name = "nudHorasDeVuelo";
-            this.nudHorasDeVuelo.Size = new System.Drawing.Size(120, 20);
+            this.nudHorasDeVuelo.Size = new System.Drawing.Size(160, 22);
             this.nudHorasDeVuelo.TabIndex = 2;
             this.nudHorasDeVuelo.Value = new decimal(new int[] {
             1,
@@ -88,11 +91,13 @@
             // 
             // menuStrip1
             // 
+            this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.archivoToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(902, 24);
+            this.menuStrip1.Padding = new System.Windows.Forms.Padding(8, 2, 0, 2);
+            this.menuStrip1.Size = new System.Drawing.Size(1203, 28);
             this.menuStrip1.TabIndex = 3;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -102,7 +107,7 @@
             this.guardarToolStripMenuItem,
             this.abrirToolStripMenuItem});
             this.archivoToolStripMenuItem.Name = "archivoToolStripMenuItem";
-            this.archivoToolStripMenuItem.Size = new System.Drawing.Size(60, 20);
+            this.archivoToolStripMenuItem.Size = new System.Drawing.Size(73, 24);
             this.archivoToolStripMenuItem.Text = "Archivo";
             // 
             // guardarToolStripMenuItem
@@ -112,8 +117,26 @@
             this.binarioToolStripMenuItem,
             this.xMLToolStripMenuItem});
             this.guardarToolStripMenuItem.Name = "guardarToolStripMenuItem";
-            this.guardarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.guardarToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.guardarToolStripMenuItem.Text = "Guardar";
+            // 
+            // baseDeDatosToolStripMenuItem
+            // 
+            this.baseDeDatosToolStripMenuItem.Name = "baseDeDatosToolStripMenuItem";
+            this.baseDeDatosToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.baseDeDatosToolStripMenuItem.Text = "Base de Datos";
+            // 
+            // binarioToolStripMenuItem
+            // 
+            this.binarioToolStripMenuItem.Name = "binarioToolStripMenuItem";
+            this.binarioToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.binarioToolStripMenuItem.Text = "Binario";
+            // 
+            // xMLToolStripMenuItem
+            // 
+            this.xMLToolStripMenuItem.Name = "xMLToolStripMenuItem";
+            this.xMLToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.xMLToolStripMenuItem.Text = "XML";
             // 
             // abrirToolStripMenuItem
             // 
@@ -122,55 +145,39 @@
             this.binarioToolStripMenuItem1,
             this.xMLToolStripMenuItem1});
             this.abrirToolStripMenuItem.Name = "abrirToolStripMenuItem";
-            this.abrirToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.abrirToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.abrirToolStripMenuItem.Text = "Abrir";
-            // 
-            // baseDeDatosToolStripMenuItem
-            // 
-            this.baseDeDatosToolStripMenuItem.Name = "baseDeDatosToolStripMenuItem";
-            this.baseDeDatosToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.baseDeDatosToolStripMenuItem.Text = "Base de Datos";
-            // 
-            // binarioToolStripMenuItem
-            // 
-            this.binarioToolStripMenuItem.Name = "binarioToolStripMenuItem";
-            this.binarioToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.binarioToolStripMenuItem.Text = "Binario";
-            // 
-            // xMLToolStripMenuItem
-            // 
-            this.xMLToolStripMenuItem.Name = "xMLToolStripMenuItem";
-            this.xMLToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.xMLToolStripMenuItem.Text = "XML";
             // 
             // baseDeDatosToolStripMenuItem1
             // 
             this.baseDeDatosToolStripMenuItem1.Name = "baseDeDatosToolStripMenuItem1";
-            this.baseDeDatosToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
+            this.baseDeDatosToolStripMenuItem1.Size = new System.Drawing.Size(224, 26);
             this.baseDeDatosToolStripMenuItem1.Text = "Base de Datos";
+            this.baseDeDatosToolStripMenuItem1.Click += new System.EventHandler(this.BaseDeDatosToolStripMenuItem1_Click);
             // 
             // binarioToolStripMenuItem1
             // 
             this.binarioToolStripMenuItem1.Name = "binarioToolStripMenuItem1";
-            this.binarioToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
+            this.binarioToolStripMenuItem1.Size = new System.Drawing.Size(224, 26);
             this.binarioToolStripMenuItem1.Text = "Binario";
             // 
             // xMLToolStripMenuItem1
             // 
             this.xMLToolStripMenuItem1.Name = "xMLToolStripMenuItem1";
-            this.xMLToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
+            this.xMLToolStripMenuItem1.Size = new System.Drawing.Size(224, 26);
             this.xMLToolStripMenuItem1.Text = "XML";
             // 
             // FrmAerolinea
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(902, 422);
+            this.ClientSize = new System.Drawing.Size(1203, 519);
             this.Controls.Add(this.nudHorasDeVuelo);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnAgregar);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "FrmAerolinea";
             this.Text = "Aero UTN";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FrmAerolinea_FormClosing);

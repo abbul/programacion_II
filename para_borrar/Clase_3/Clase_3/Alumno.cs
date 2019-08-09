@@ -21,23 +21,23 @@ namespace Clase_3
       colegio = "UTN";
     }
 
-    public Alumno(string cuatro, string cinco, int seis )
+    public Alumno(string nombre, string apellido, int legajo)
     {
-      this.nombre = cuatro;
-      this.apellido = cinco;
-      this.legajo = seis;
+      this.nombre = nombre;
+      this.apellido = apellido;
+      this.legajo = legajo;
 
     }
 
     public void CalcularFinal()
     {
-      this.notaFinal = this.notaUno + this.notaFinal;
+      notaFinal = notaUno + notaFinal;
     }
 
-    public void Estudiar(int uno, int dos)
+    public void Estudiar(int notaUno, int notaDos)
     {
-      this.notaUno = uno;
-      this.notaDos = dos;
+      this.notaUno = notaUno;
+      this.notaDos = notaDos;
     }
 
     public void Mostrar()

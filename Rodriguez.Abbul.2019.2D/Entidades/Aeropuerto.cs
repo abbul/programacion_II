@@ -15,7 +15,7 @@ namespace Entidades
             vuelos = new List<T>();
         }
 
-        public void FinalizarVuelo()
+        public void FinalizarVuelos()
         {
             foreach (T item in vuelos)
             {

@@ -62,7 +62,7 @@ namespace Entidades
                 Thread.Sleep(1000);
                 horasRestantes -= 1;
 
-                porcentajeCompletado-= ReportarEstado(horasVuelo, horasRestantes);
+                porcentajeCompletado+= ReportarEstado(horasVuelo, horasRestantes);
             }
 
         }

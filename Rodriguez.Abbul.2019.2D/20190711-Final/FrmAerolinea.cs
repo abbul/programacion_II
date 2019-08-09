@@ -38,5 +38,12 @@ namespace _20190711_Final
         {
             this.aeropuerto.FinalizarVuelos();
         }
+
+        private void BaseDeDatosToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            DB sql = new DB();
+
+            sql.EjecutarQuery("select * from db", true);
+        }
     }
 }

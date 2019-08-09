@@ -16,3 +16,9 @@ D:\Rodriguez.Abbul.2019.2D\Rodriguez.Abbul.2019.2D\Entidades\obj\Debug\Entidades
 D:\Rodriguez.Abbul.2019.2D\Rodriguez.Abbul.2019.2D\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 D:\Rodriguez.Abbul.2019.2D\Rodriguez.Abbul.2019.2D\Entidades\obj\Debug\Entidades.dll
 D:\Rodriguez.Abbul.2019.2D\Rodriguez.Abbul.2019.2D\Entidades\obj\Debug\Entidades.pdb
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Rodriguez.Abbul.2019.2D\Entidades\bin\Debug\Entidades.dll
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Rodriguez.Abbul.2019.2D\Entidades\bin\Debug\Entidades.pdb
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Rodriguez.Abbul.2019.2D\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Rodriguez.Abbul.2019.2D\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Rodriguez.Abbul.2019.2D\Entidades\obj\Debug\Entidades.dll
+C:\Users\AstrobertoAbbulRodri\Desktop\programacion_II\Rodriguez.Abbul.2019.2D\Entidades\obj\Debug\Entidades.pdb
